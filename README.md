@@ -1,5 +1,5 @@
 
-Claro, aqui está um exemplo de como você pode estruturar um arquivo README.md para o seu repositório:
+
 
 Bot Gerador de Dados
 Este é um bot para Telegram que gera dados simulados, como CPFs, números de telefone e senhas. É útil para desenvolvedores, testadores de software e analistas de dados que precisam de dados fictícios para testes, simulações ou outros fins.
